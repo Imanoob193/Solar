@@ -10,6 +10,8 @@
 Solar Tweaks is a tweaking tool for Lunar Client, offering a wide range of modifications, including the ability to use mods which are unavailable by default. We are dedicated to providing our users with the most up-to-date patches and updates, and we are proud to have a large user base of over 200,000 individuals who have downloaded and used our tool.
 
 Please note that the use of Solar Tweaks is at your own risk. Any changes done to the source code of Lunar Client is in violation of their terms of service. We advise you to review Lunar Client's terms of service by clicking [here](https://www.lunarclient.com/terms) before proceeding. We cannot be held responsible for any damages that may occur as a result of using Solar Tweaks.
+# Note:
+I am not the maintainer of Solar Tweaks. I have forked this project and completly forgot about it. Do not expect any updates as the project is no longer maintained by the original maintainers.
 
 # Installing
 
